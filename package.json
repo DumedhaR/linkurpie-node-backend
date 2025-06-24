@@ -1,0 +1,27 @@
+{
+  "name": "linkurpie-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Backend for digital platform for content creators, and artists to share and monetize their work",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DumedhaR/linkurpie-node-backend.git"
+  },
+  "author": "I. A. D. R. Perera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DumedhaR/linkurpie-node-backend/issues"
+  },
+  "homepage": "https://github.com/DumedhaR/linkurpie-node-backend#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
